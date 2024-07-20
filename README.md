@@ -1,4 +1,4 @@
-# Trip Finder React Tourist Attraction Mini Project
+# Trip Finder React Tourist Attraction
 
 ![TOURIST](client/src/img/tiewnaidee-main-screenshot.png)
 
