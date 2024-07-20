@@ -18,7 +18,7 @@ Trip Finder is a React application that helps users discover travel destinations
 
 1. Clone the repository:
    ```sh
-   git@github.com:techupth/react-tourist-attraction-mini-project-prechak.git
+   git clone git@github.com:prechak/Trip-Finder-React-Tourist-Attraction.git
 
 2. Navigate to the project directory & Install dependencies at server:
    ```sh
