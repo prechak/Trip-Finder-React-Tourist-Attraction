@@ -1,10 +1,8 @@
 # Trip Finder React Tourist Attraction
 
-Trip Finder is a React application that helps users discover travel destinations based on search keywords. The application fetches and displays a list of trips from a server, allowing users to search for trips, view trip details, and copy trip URLs to the clipboard.
-
 ![TOURIST](client/src/img/tiewnaidee-main-screenshot.png)
 
-
+Trip Finder is a React application that helps users discover travel destinations based on search keywords. The application fetches and displays a list of trips from a server, allowing users to search for trips, view trip details, and copy trip URLs to the clipboard.
 
 ## Features
 
