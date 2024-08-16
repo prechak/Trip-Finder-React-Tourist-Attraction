@@ -7,7 +7,7 @@
 
 //   const getDataFromServer = async () => {
 //     const response = await axios.get(
-//       `http://localhost:4001/trips?keywords=${searchText}`
+//       `https://tripfinder-server.vercel.app/trips?keywords=${searchText}`
 //     );
 //   };
 
